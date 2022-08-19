@@ -1,17 +1,5 @@
-Hello friend! 
-This is Starter code for Project 2: Creativity Canvas, lovingly prepared by Shm Garanganao Almeda for CS160 User Interface Design & Development Summer 2022 at UC Berkeley.
-*You are not required to use ANY of this example code.* I just thought it might be helpful to have something to work off of.
 
-<img src="https://i.imgur.com/xcnUizl.png" width="300" alt= "Preview of this Starter Code Drawing Application">
-
-Watch Lecture 6.5 (from July 05, 2022) for a recorded live coding demo where you can see how this code was written from start to finish. 
-
-<img src="https://i.imgur.com/6L4OUS7.png" width="300" alt= "Shm's Drawing Application Image Preview">
-I've also shared Shm's Cool Drawing Application (this starter code + around an hour of time spent adding more buttons, colors, and features!) as a GitHub repository available here: https://github.com/s-almeda/shms-cool-drawing-app
-
-This repository should get you all set up with the scaffolding for a drawing application that runs on a local server using JavaScript(with Node.js and Express), HTML + CSS. 
-
-Here are some instructions for running this starter code. 
+Here are some instructions for running this code. 
 We're going to be using a command-line interface.
 (I'm writing this from the perspective of a Mac user using Terminal (zsh). If you're a Windows user, you might use Powershell. If you use Visual Studio Code, you might find [this page](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/nodejs-beginners-tutorial)
  helpful.)
